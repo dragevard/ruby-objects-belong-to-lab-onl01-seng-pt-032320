@@ -3,8 +3,7 @@ class Artist
   def initialize(name)
     @name = name 
   end
-
-
-artist = Artist.new
+  
+  artist = Artist.new
 
 end
